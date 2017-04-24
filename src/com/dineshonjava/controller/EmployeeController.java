@@ -120,4 +120,8 @@ public class EmployeeController {
 		bean.setId(employee.getEmpId());
 		return bean;
 	}
+public void test(){
+System.out.println("let checkout");
+}
+
 }
